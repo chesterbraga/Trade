@@ -5,7 +5,7 @@
         DEFAULTED,
         HIGHRISK,
         MEDIUMRISK,
-        PEP, //Imput the new attribute on the third line and validate it first
+        PEP, //Question 2 - Imput the new attribute on the third line and validate it first
         NONE
     }
 }
